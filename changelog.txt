@@ -1,0 +1,8 @@
+changelog:
+	beta 0.2: fixed metalness values throughout the pack
+	beta 0.3: made obsidian shinier
+	beta 0.31: realized the above change should also apply to the ender chest
+	
+	Version 1.0: Update to 1.19, now on par with Faithful/Compliance Full Release!
+	Version 1.1: Round pointed dripstone, slowed and smoothed the sculk pulsing
+	Version 1.2: Update to Faithful R2, added non-CTM log normals/POM
