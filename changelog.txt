@@ -3,8 +3,22 @@ changelog:
 	beta 0.3: made obsidian shinier
 	beta 0.31: realized the above change should also apply to the ender chest
 	
-	Version 1.0: Update to 1.19, now on par with Faithful/Compliance Full Release!
-	Version 1.1: Round pointed dripstone, slowed and smoothed the sculk pulsing
-	Version 1.2: Update to Faithful R2, added non-CTM log normals/POM
-	Version 1.3: Update to Faithful R3, added non-CTM rounded Stripped nether logs (apparently forgot those)
-	Version 1.4: Update to Faithful R5, added depth to coal blocks and to the inside of chests (double chests may be a bit jank)
+	Version 1.0: 
+		Update to 1.19, now on par with Faithful/Compliance Full Release!
+	
+	Version 1.1: 
+		Round pointed dripstone
+		Slowed and smoothed the sculk pulsing
+	Version 1.2: 
+		Update to Faithful R2
+		Added non-CTM log normals/POM
+	Version 1.3: 
+		Update to Faithful R3
+		Added non-CTM rounded Stripped nether logs (apparently forgot those)
+	Version 1.4: 
+		Update to Faithful R5
+		Added depth to coal blocks 
+		Added depth to the inside of chests (double chests may be a bit jank)
+	Version 1.4.1: 
+		Fixed carved pumpkins/jack-o-lanterns
+		Improved quartz pillars, ender chest, and reinforced deepslate
